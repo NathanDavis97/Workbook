@@ -1,4 +1,5 @@
-Daily Journal - 04
+Day 04
+__12/03/2020__
 
 ## 1. What is the purpose of wire-framing?
 
