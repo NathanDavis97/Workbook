@@ -1,5 +1,5 @@
 Daily Journal - 04
-Read Building Blocks Of Web Development > Wire-framing: A Comprehensive Guide and answer the following questions
+
 ## 1. What is the purpose of wire-framing?
 
 Wire-framing allows for the layout and design of a page to be made before ccoding has to come into play. Wire frames can showcase the design and function of a site which will allow the code to focus on making it come to a reality. By creating  a wireframe, you can worry less about the desing later. It can give insight to the developer and help them maintain a user-focused interface when they are developing.
