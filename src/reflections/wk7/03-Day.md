@@ -1,4 +1,4 @@
-# Week 6 Day 3
+# Week 7 Day 3
 __1/27/2021__
 
 ## What is a User Experience? What should be considered when developing a User Experience? 

@@ -1,4 +1,4 @@
-# Week 6 Day 4
+# Week 7 Day 4
 __1/28/2021__
 
 ## Which Principles from this weeks reading did you implement?

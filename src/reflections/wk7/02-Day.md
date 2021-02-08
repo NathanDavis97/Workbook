@@ -1,4 +1,4 @@
-# Week 6 Day 2
+# Week 7 Day 2
 __1/26/2021__
 
 ## What is Code Documentation? What are some of the ways to document code? 

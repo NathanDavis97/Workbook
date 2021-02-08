@@ -1,4 +1,4 @@
-# Week 6 Day 1
+# Week 7 Day 1
 __1/25/2021__
 
 ## What is Pair Programming? What are the roles and how do they work? 
