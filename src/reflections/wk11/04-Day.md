@@ -1,0 +1,6 @@
+# Week 11 Day 4
+__2/25/2021__
+
+## Write a review and reflection of your experiences in this course, as this is the last lecture before your final project, what are your concerns, how do you plan to manage your time, what have you enjoyed most about the course up to this point.
+
+I have enjoyed the entirety of the course. I feel like I have been able to keep up and learn everything as fast as it has been taught. I mostly am concerned for my final with the ability to forsee troubles that I could encounter before encountering them. I want to be able to think ahead and be ready for the errors that will occur. I plan on selecting a single feature or piece to work on at a time and finishing it as quickly as possible before moving onto the next piece. I have realyl enjoyed being able to be in an environment where everyone is on the same page and is trying their best to learn this skill as well as make friends with each other. I have enjoyed many of the pojects and feel like I have accomplished a lot since attending.
